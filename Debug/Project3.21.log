@@ -1,0 +1,3 @@
+﻿  Project3.21.cpp
+C:\Users\Edvard\source\repos\Project3.21\Project3.21\Project3.21.cpp(42,24): warning C4804: '>=': unsafe use of type 'bool' in operation
+  Project3.21.vcxproj -> C:\Users\Edvard\source\repos\Project3.21\Debug\Project3.21.exe
